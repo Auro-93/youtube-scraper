@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 
 // @ts-ignore
-import videosRouter from "./routes/videos.ts";
+import videosRouter from ".src/routes/videos.ts";
 
 
 //INITIALIZE APP
